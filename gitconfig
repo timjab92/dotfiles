@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = timjab92@gmail.com
+	name = Tim Jablonski
