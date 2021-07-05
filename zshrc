@@ -65,8 +65,8 @@ export PATH="./bin:./node_modules/.bin:${PATH}:/usr/local/sbin"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
+# chrome as browser
 export BUNDLER_EDITOR=code
 export PATH=/usr/local/opt/python/libexec/bin:$PATH
 eval "$(pyenv init -)"
-export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
-export BROWSER='"/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"'
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
